@@ -1,0 +1,7 @@
+Construct coins/stars
+Explosion Sprite On Death
+Change player sprite
+Have different enemy patterns
+Have a docking station for player at start 
+Take the aspect of greed in terms of risk and coin collection
+Have death effect for enemy ???
